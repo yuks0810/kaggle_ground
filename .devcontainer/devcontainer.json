@@ -29,7 +29,8 @@
 		"jithurjacob.nbpreviewer",
 		"donjayamanne.jupyter",
 		"ms-python.python",
-		"tht13.python"
+		"tht13.python",
+		"visualstudioexptteam.vscodeintellicode"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
