@@ -147,3 +147,8 @@ cython_debug/
 # csv files
 *.csv
 *.zip
+
+# image files
+*.jpg
+*.jpeg
+*.pdf
